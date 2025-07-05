@@ -49,9 +49,8 @@
   </header>
   <h2>📘 পূৰণৰ সৰু নেওঁতা (১ ৰ পৰা ১০লৈ)</h2>
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; font-size: 20px; font-family: 'Noto Sans Bengali', sans-serif;">
-   <div class="box">
-      <h3>১</h3>
-      <div class="table">
+   <div class="container">
+    <div class="table-box">
     ১ × ১ = ১<br>
     ১ × ২ = ২<br>
     ১ × ৩ = ৩<br>
