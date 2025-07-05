@@ -18,8 +18,8 @@
       border-bottom: 1px solid #ccc;
     }
     .logo {
-      width: 50px;
-      height: 50px;
+      width: 20px;
+      height: 20px;
       margin-right: 10px;
     }
     .site-title h1 {
