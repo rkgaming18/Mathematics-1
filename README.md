@@ -51,9 +51,8 @@
 </head>
 <body>
 
-  <h1>পূৰণৰ সৰু নেওঁতা </h1>
-
-  <div class="tables-wrapper">
+<h1>পূৰণৰ সৰু নেওঁতা</h1>
+<div class="tables-wrapper">
 
    <div class="table-box">
       <ul>
@@ -198,7 +197,7 @@
       <li>১০×১০=১০০</li>
       </ul>
       </div>
-      h1>যোগ নেওঁতা (১ ৰ পৰা ১০)</h1>
+      h1>যোগ নেওঁতা</h1>
 
   <div class="addition-wrapper">
 
