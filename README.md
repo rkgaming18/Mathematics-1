@@ -1,1 +1,137 @@
-# Mathematics-1
+<html lang="as">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>নেওঁতা তালিকা - অসীম Library</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #fefefe;
+      color: #222;
+    }
+    header {
+      background: #d32f2f;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+    .section {
+      padding: 20px;
+    }
+    .section-title {
+      font-size: 20px;
+      color: #4caf50;
+      margin-bottom: 10px;
+    }
+    .table-box {
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      padding: 10px 20px;
+      margin-bottom: 30px;
+      overflow-x: auto;
+    }
+    pre {
+      font-family: 'Courier New', monospace;
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>নেওঁতা তালিকা - অসীম Library</h1>
+  </header>
+
+  <div class="section">
+    <h2 class="section-title">পূৰণৰ সৰু নেওঁতা</h2>
+    <div class="table-box">
+      <pre>
+১ × ১ = ১
+১ × ২ = ২
+১ × ৩ = ৩
+১ × ৪ = ৪
+১ × ৫ = ৫
+১ × ৬ = ৬
+১ × ৭ = ৭
+১ × ৮ = ৮
+১ × ৯ = ৯
+১ × ১০ = ১০
+      </pre>
+    </div>
+
+    <h2 class="section-title">পূৰণৰ মাজু নেওঁতা</h2>
+    <div class="table-box">
+      <pre>
+১১ × ১ = ১১
+১১ × ২ = ২২
+১১ × ৩ = ৩৩
+১১ × ৪ = ৪৪
+১১ × ৫ = ৫৫
+১১ × ৬ = ৬৬
+১১ × ৭ = ৭৭
+১১ × ৮ = ৮৮
+১১ × ৯ = ৯৯
+১১ × ১০ = ১১০
+      </pre>
+    </div>
+
+    <h2 class="section-title">পূৰণৰ বৰ নেওঁতা</h2>
+    <div class="table-box">
+      <pre>
+১১ × ১১ = ১২১
+১১ × ১২ = ১৩২
+১১ × ১৩ = ১৪৩
+১১ × ১৪ = ১৫৪
+১১ × ১৫ = ১৬৫
+১১ × ১৬ = ১৭৬
+১১ × ১৭ = ১৮৭
+১১ × ১৮ = ১৯৮
+১১ × ১৯ = ২০৯
+১১ × ২০ = ২২০
+      </pre>
+    </div>
+
+    <h2 class="section-title">যোগ নেওঁতা</h2>
+    <div class="table-box">
+      <pre>
+১ + ১ = ২
+১ + ২ = ৩
+১ + ৩ = ৪
+১ + ৪ = ৫
+১ + ৫ = ৬
+...
+১০ + ১০ = ২০
+      </pre>
+    </div>
+
+    <h2 class="section-title">বিয়োগ নেওঁতা</h2>
+    <div class="table-box">
+      <pre>
+১০ - ১ = ৯
+১০ - ২ = ৮
+১০ - ৩ = ৭
+...
+১ - ১ = ০
+      </pre>
+    </div>
+
+    <h2 class="section-title">১ ৰ পৰা ১০০</h2>
+    <div class="table-box">
+      <pre>
+১ - এটা
+২ - দুটা
+৩ - তিনি
+৪ - চাৰি
+৫ - পাঁচ
+...
+১০০ - এক শত
+      </pre>
+    </div>
+  </div>
+</body>
+</html>
