@@ -1,54 +1,74 @@
-<html lang="as">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>অসীম library</title>
+  <title>অসীম Library</title>
   <style>
     body {
-      font-family: sans-serif;
       margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background-color: #f9f9f9;
+    }
+
+  header {
+      background-color: #1e293b;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+  header h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+  .main-content {
       padding: 20px;
-      max-width: 100%;
-      background-color: #fff;
+      max-width: 1200px;
+      margin: 0 auto;
     }
-    h1 {
-      text-align: center;
-      font-size: 1.5em;
-      color: #222;
+
+  .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
     }
-    .tables-wrapper {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 16px;
-    }
-    .table-box {
-      flex: 1 1 300px;
-      background: #f2f2f2;
+
+   .card {
+      background: white;
       border-radius: 10px;
-      padding: 12px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      min-width: 280px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      padding: 16px;
+      transition: transform 0.2s;
     }
-    .table-box h2 {
-      text-align: center;
-      margin-top: 0;
+
+   .card:hover {
+      transform: translateY(-4px);
+    }
+
+   .card h2 {
       font-size: 1.2em;
+      margin-top: 0;
+      text-align: center;
+      color: #1e293b;
     }
-    .table-box ul {
+
+   .card ul {
       list-style: none;
       padding: 0;
       margin: 0;
-      font-size: 1em;
       line-height: 1.6;
+      font-size: 1em;
     }
-    @media (max-width: 480px) {
-      .table-box {
-        min-width: 100%;
+
+  @media (max-width: 480px) {
+      header h1 {
+        font-size: 1.3em;
       }
     }
   </style>
 </head>
+<body>
 <body>
   <h1>পূৰণৰ সৰু নেওঁতা</h1>
 <div class="tables-wrapper">
@@ -338,6 +358,5 @@
         <li>১০ + ৯ = ১৯</li>
         <li>১০ + ১০ = ২০</li>
       </ul>
-    </div>
-</body>
+    </div></body>
 </html>
