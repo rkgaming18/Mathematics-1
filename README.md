@@ -69,7 +69,6 @@
   </style>
 </head>
 <body>
-<body>
   <h1>পূৰণৰ সৰু নেওঁতা</h1>
 <div class="tables-wrapper">
 
