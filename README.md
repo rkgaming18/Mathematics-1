@@ -197,7 +197,7 @@
       <li>১০×১০=১০০</li>
       </ul>
       </div>
-      h1>যোগ নেওঁতা</h1>
+      <h1>যোগ নেওঁতা</h1>
 <div class="addition-wrapper">
 
   <div class="addition-box">
