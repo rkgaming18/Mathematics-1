@@ -71,7 +71,7 @@
 </head>
 <body>
   <header>
-    <img src="asim-logo.png" alt="অসীম Library Logo" class="logo" />
+    <img src="https://drive.google.com/file/d/19a7hOHqX_R72pEhJR4Z9r-INr29u65Zx/view?usp=drivesdk" alt="অসীম Library Logo" class="logo" />
     <div class="site-title">
       <h1>অসীম Library</h1>
     </div>
