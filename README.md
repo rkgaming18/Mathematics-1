@@ -51,15 +51,15 @@
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; font-size: 20px; font-family: 'Noto Sans Bengali', sans-serif;">
    <div class="container">
     <div class="table-box">
-    ১ × ১ = ১<br>
-    ১ × ২ = ২<br>
-    ১ × ৩ = ৩<br>
-    ১ × ৪ = ৪<br>
-    ১ × ৫ = ৫<br>
-    ১ × ৬ = ৬<br>
-    ১ × ৭ = ৭<br>
-    ১ × ৮ = ৮<br>
-    ১ × ৯ = ৯<br>
+    ১ × ১ = ১
+    ১ × ২ = ২
+    ১ × ৩ = ৩
+    ১ × ৪ = ৪
+    ১ × ৫ = ৫
+    ১ × ৬ = ৬
+    ১ × ৭ = ৭
+    ১ × ৮ = ৮
+    ১ × ৯ = ৯
     ১ × ১০ = ১০
   </div><br>
   <div class="container">
@@ -350,9 +350,9 @@
   <div>
     ১৫ × ১৫ = ২২৫<br>
     ১৫ × ১৬ = ২৪০<br>
-    ১৫ × ১৭ = ২৫৫<br>
-    ১৫ × ১৮ = ২৭০<br>
-    ১৫ × ১৯ = ২৮৫<br>
+    ১৫ × ১৭ = ২৫৫
+    ১৫ × ১৮ = ২৭০
+    ১৫ × ১৯ = ২৮৫
     ১৫ × ২০ = ৩০০
   </div>
   <div>
