@@ -71,7 +71,7 @@
 </head>
 <body>
   <header>
-    <img src="https://i.ibb.co/jkyrNZ5t/Screenshot-2025-07-05-18-29-01-238-com-android-chrome.jpg" alt="Screenshot-2025-07-05-18-29-01-238-com-android-chrome" border="0">"অসীম Library Logo" class="logo"/>
+    <img src="https://i.ibb.co/jkyrNZ5t/Screenshot-2025-07-05-18-29-01-238-com-android-chrome.jpg" alt="border="0">"অসীম Library Logo" class="logo"/>
     <div class="site-title">
       <h1>অসীম Library</h1>
     </div>
