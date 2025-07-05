@@ -50,8 +50,7 @@
   </style>
 </head>
 <body>
-
-<h1>পূৰণৰ সৰু নেওঁতা</h1>
+  <h1>পূৰণৰ সৰু নেওঁতা</h1>
 <div class="tables-wrapper">
 
    <div class="table-box">
