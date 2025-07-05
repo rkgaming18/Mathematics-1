@@ -198,8 +198,7 @@
       </ul>
       </div>
       h1>যোগ নেওঁতা</h1>
-
-  <div class="addition-wrapper">
+<div class="addition-wrapper">
 
   <div class="addition-box">
       <ul>
@@ -258,7 +257,6 @@
       </ul>
   </div>
     <div class="addition-box">
-      <h2>৫ ৰ যোগ</h2>
       <ul>
         <li>৫ + ১ = ৬</li>
         <li>৫ + ২ = ৭</li>
