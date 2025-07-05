@@ -18,8 +18,8 @@
       border-bottom: 1px solid #ccc;
     }
     .logo {
-      width: 20px;
-      height: 20px;
+      width: 50px;
+      height: 50px;
       margin-right: 10px;
     }
     .site-title h1 {
@@ -71,11 +71,10 @@
 </head>
 <body>
   <header>
-    <img src="https://i.ibb.co/cSm0yNQ8/IMG-20250619-211951.jpg" alt="IMG-20250619-211951" border="0" />"অসীম Library Logo" class="logo"/>
-    <div class="site-title">
-      <h1>অসীম Library</h1>
-    </div>
-  </header>  <section>
+  <img src="https://i.ibb.co/cSm0yNQ/IMG-20250619-211951.jpg" alt="অসীম Library Logo" class="logo" />
+  <h1><span style="color: #d32f2f;">অসীম</span> Library</h1>
+</header>
+ <section>
     <h2 class="section-title">পূৰণৰ সৰু নেওঁতা</h2>
 <body>
 <div class="tables-wrapper">
