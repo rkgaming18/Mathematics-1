@@ -1,75 +1,83 @@
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>অসীম Library</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>পূৰণৰ সৰু নেওঁতা- অসীম Library</title>
   <style>
     body {
       margin: 0;
-      padding: 0;
-      font-family: sans-serif;
-      background-color: #f9f9f9;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fefefe;
+      color: #222;
     }
-
-  header {
-      background-color: #1e293b;
-      color: white;
-      padding: 1rem;
-      text-align: center;
+    header {
+      background-color: #fff;
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      border-bottom: 1px solid #ccc;
     }
-
-  header h1 {
+    .logo {
+      width: 50px;
+      height: 50px;
+      margin-right: 10px;
+    }
+    .site-title h1 {
       margin: 0;
-      font-size: 1.8em;
+      font-size: 24px;
+      color: #d32f2f;
     }
-
-  .main-content {
-      padding: 20px;
-      max-width: 1200px;
-      margin: 0 auto;
+    .section-title {
+      text-align: center;
+      font-size: 22px;
+      margin: 20px 0 10px;
+      color: #3f51b5;
     }
-
-  .grid {
+    .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 20px;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 15px;
+      padding: 20px;
     }
-
-   .card {
-      background: white;
-      border-radius: 10px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-      padding: 16px;
-      transition: transform 0.2s;
-    }
-
-   .card:hover {
-      transform: translateY(-4px);
-    }
-
-   .card h2 {
-      font-size: 1.2em;
-      margin-top: 0;
+    .card {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 10px;
       text-align: center;
-      color: #1e293b;
+      background-color: #fafafa;
     }
-
-   .card ul {
-      list-style: none;
-      padding: 0;
+    .card h3 {
+      margin: 5px 0;
+      font-size: 20px;
+      color: #0066cc;
+    }
+    .card img {
+      max-width: 80px;
+      height: 60px;
+      object-fit: contain;
+      margin: 5px 0;
+    }
+    .card p {
       margin: 0;
-      line-height: 1.6;
-      font-size: 1em;
+      font-size: 14px;
     }
-
-  @media (max-width: 480px) {
-      header h1 {
-        font-size: 1.3em;
+    @media (max-width: 600px) {
+      .card img {
+        max-width: 60px;
+        height: 50px;
       }
     }
   </style>
 </head>
 <body>
-  <h1>পূৰণৰ সৰু নেওঁতা</h1>
+  <header>
+    <img src="asim-logo.png" alt="অসীম Library Logo" class="logo" />
+    <div class="site-title">
+      <h1>অসীম Library</h1>
+    </div>
+  </header>  <section>
+    <h2 class="section-title">পূৰণৰ সৰু নেওঁতা</h2>
+<body>
 <div class="tables-wrapper">
 
    <div class="table-box">
